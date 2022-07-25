@@ -1,0 +1,21 @@
+.panda-bg-info{
+    background-color: #fceae8;
+}
+
+.carosel-price{
+    color: #FF136F;
+}
+
+/* Buy now+subscribe button background color change btn-warning to #FF136F */
+.panda-btn-warning{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+}
+
+/* Category background color  */
+.bag-category-bg-danger{
+    background-color: orchid;
+}
+
+.shoes-category-bg-danger{
+    background-color: blue;
+}
